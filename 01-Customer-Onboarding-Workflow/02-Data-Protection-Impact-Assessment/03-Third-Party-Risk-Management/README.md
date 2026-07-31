@@ -63,9 +63,9 @@ Privacy and cybersecurity oversight.
 Overall Recommendation	
 Executive reporting through an interactive dashboard.	
 
-## Dashboard
+## Privacy Risk Assessment
 
-![Dashboard](Dashboard.png)
+![Dashboard](Privacy-Risk-Assessment.PNG)
 
 ## Vendor Register
 
