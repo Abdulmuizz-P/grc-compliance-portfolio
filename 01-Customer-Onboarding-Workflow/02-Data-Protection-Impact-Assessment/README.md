@@ -44,3 +44,11 @@ Reduction of residual privacy risks through documented mitigation measures.
 Improved organizational accountability and audit readiness through comprehensive DPIA documentation.
 Executive visibility into privacy risks, control effectiveness, and mitigation progress through automated dashboards.
 Advanced Excel Functions (XLOOKUP, IFS, LET, Structured Tables & Conditional Formatting)
+
+## Dashboard
+
+![Dashboard](Dashboard.PNG)
+
+## Risk Matrix
+
+![Risk Matrix](Privacy-Risk-Assessment.PNG)
