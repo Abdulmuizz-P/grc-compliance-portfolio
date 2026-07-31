@@ -61,5 +61,12 @@ Reduced manual errors and improved efficiency through Excel automation.
 Increased audit readiness with centralized customer records and documented compliance activities.
 Executive visibility into customer risk profiles, onboarding decisions, and key AML/CFT compliance metrics through an interactive dashboard.
 
+## Dashboard
+
+![Dashboard](Dashboard.PNG)
+
+## Risk Matrix
+
+![Risk Matrix](Risk-Matrix.PNG)
 Executive Dashboard
 Automated scoring using XLOOKUP, IFS, LET, and structured references
