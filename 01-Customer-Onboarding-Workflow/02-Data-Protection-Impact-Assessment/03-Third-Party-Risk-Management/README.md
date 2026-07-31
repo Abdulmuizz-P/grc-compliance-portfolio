@@ -63,3 +63,10 @@ Privacy and cybersecurity oversight.
 Overall Recommendation	
 Executive reporting through an interactive dashboard.	
 
+## Dashboard
+
+![Dashboard](Dashboard.png)
+
+## Vendor Register
+
+![Risk Matrix](Vendor-Register.PNG)
