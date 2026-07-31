@@ -1,15 +1,7 @@
-# Grc-compliance-portfolio
-Portfolio of Governance, Risk &amp; Compliance Projects built using Microsoft Excel.
+# Governance, Risk & Compliance (GRC) Portfolio
 
-Welcome to my professional GRC portfolio.
+Welcome!
 
-This repository showcases practical Microsoft Excel projects focused on:
+I'm Abdulmuizz Abdulrazaq, a legal professional building practical expertise in Governance, Risk & Compliance (GRC), Data Privacy, AML/CFT, and Third-Party Risk Management.
 
-• Data Privacy
-• AML/CFT
-• Customer Due Diligence
-• Third-Party Risk Management
-• Compliance Monitoring
-• Risk Assessment
-
-These projects demonstrate workflow automation, risk scoring, dashboard design and regulatory compliance using Excel.
+This repository showcases practical Microsoft Excel projects designed to simulate real-world compliance workflows and demonstrate the application of industry standards and regulatory frameworks.
