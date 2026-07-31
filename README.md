@@ -13,3 +13,41 @@ This repository showcases practical Microsoft Excel projects designed to simulat
 | Third Party Risk Management | TPRM           | ✅      |
 | Compliance Gap Tracker      | GRC            | ✅      |
 | Risk Based Assessment       | AML/CFT        | 🚧     |
+
+## Skills Demonstrated
+
+✔ AML/CFT
+
+✔ Customer Due Diligence
+
+✔ KYC
+
+✔ CIP
+
+✔ Privacy Compliance
+
+✔ Third Party Risk
+
+✔ Compliance Monitoring
+
+✔ Risk Assessment
+
+## Standards Referenced
+
+NDPA 2023
+
+GAID 2025
+
+FATF Recommendations
+
+ISO 31000
+
+ISO/IEC 27001
+
+ISO/IEC 37301
+
+NIST Privacy Framework
+
+Excel Automation
+
+Dashboard Design
